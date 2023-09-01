@@ -10,7 +10,7 @@
   
 - 🌱 I’m currently learning **React JS**.
 
-- 😄 Pronouns: She/Her
+- 😄 Pronouns : She/Her
   
 - 📫 Contact Me : **salonirai922@gmail.com**.
 
