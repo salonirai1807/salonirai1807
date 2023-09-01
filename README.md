@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m Saloni Rai.
 
-- 👀 I’m interested in creating beautiful and performant Website Designs.
+- 👀 I’m interested in creating cool and performant Website Designs.
   
 - 🌱 I’m currently learning **React JS**.
   
