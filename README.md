@@ -9,8 +9,10 @@
 - 👀 I’m interested in creating cool and performant Website Designs.
   
 - 🌱 I’m currently learning **React JS**.
+
+- - 😄 Pronouns: She/Her
   
-- 📫 How to reach me **salonirai922@gmail.com**.
+- 📫 Contact Me : **salonirai922@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,7 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salonirai1807&show_icons=true&locale=en&layout=compact" alt="salonirai1807" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salonirai1807&show_icons=true&locale=en" alt="salonirai1807" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salonirai1807" alt="salonirai1807" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salonirai1807&" alt="salonirai1807" /></p>
