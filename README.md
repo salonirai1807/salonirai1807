@@ -8,7 +8,7 @@
 
 - 👀 I’m interested in creating cool and performant Website Designs.
   
-- 🌱 I’m currently learning **React JS**.
+- 🌱 I’m currently learning **Cloud Computing**.
 
 - 😄 Pronouns : She/Her
   
